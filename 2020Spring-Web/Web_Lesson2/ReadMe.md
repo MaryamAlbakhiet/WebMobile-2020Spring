@@ -20,4 +20,4 @@
 - Create a 'cube-shaped color grid' as shownin the Image IIusing HTML <div>, <span> elements and CSS elements
   - Each color grid should be 70 × 70
   - The cube should be center-aligned
-  - No mandatory of colors (you can choose colors of your like)Image II: cube-shaped color grid
+  - No mandatory of colors (you can choose colors of your like)
