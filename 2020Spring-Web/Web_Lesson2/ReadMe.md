@@ -1,5 +1,5 @@
 
-In Class Programming: HTMLTask
+**In Class Programming: HTMLTask**
 
 1.Create an HTML document named "index.html".
 2.The page should contain 
@@ -13,7 +13,7 @@ In Class Programming: HTMLTask
   h)any relevant video/YouTube video. The video should have controls like play, pause, etc.
 
 
-CSS Task
+**CSS Task**
 
 1.Download the Source Code and run the starter code given in the'Inclass'folder with WebStorm
 2.Add the notifications icon and your image in the corner of the page and the recently opened tabs below the search bars of Google as shown in the ImageIImage I: Google page with user details
