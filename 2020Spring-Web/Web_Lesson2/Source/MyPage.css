@@ -39,17 +39,21 @@ p {
     background-size: cover;
 }
 #header img {
-    display: block;
     width: 80px;
     height: 80px;
     margin: auto;
 }
+
+#header img {
+    display: block;
+}
+
 #header p {
-    font-size: 25pt;
-    color: #3b464c;
+    font-size: 50pt;
+    color: #0f0f0f;
     padding-top: 5px;
     margin: 0;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
 }
 
