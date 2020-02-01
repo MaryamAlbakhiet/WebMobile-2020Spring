@@ -21,3 +21,10 @@
   - Each color grid should be 70 × 70
   - The cube should be center-aligned
   - No mandatory of colors (you can choose colors of your like)
+  
+
+**Create a 'cube-shaped color grid'**
+
+- Each color grid should be 70 × 70
+- The cube should be center-aligned
+- No mandatory of colors (you can choose colors of your like)
