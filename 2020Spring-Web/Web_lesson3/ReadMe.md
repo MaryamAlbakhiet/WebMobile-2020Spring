@@ -3,8 +3,8 @@ Build the game of rock paper scissors using JavaScript.
 
 
 **2. RWD Task**
--i.Create a page thatlooks likethe below mockup.
--ii.Download the starter code from here.
+_i.Create a page thatlooks likethe below mockup.
+_ii.Download the starter code from here.
 -iii.Follow the TODO instructions in the 'input.html' file.
 -iv.Make the page responsive and check its responsiveness as the screen size decreases.
 -v.The font in the mockup looks different from what we have in the code now.
