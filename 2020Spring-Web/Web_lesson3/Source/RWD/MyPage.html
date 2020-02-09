@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+1.Enter your name in h1 and designation in h3
+2.Replace all the placeholder images with suitable images of the same size reflecting you and your projects.Feel free to use the sample images provided
+3.Replace the content of headings App1,App2,App3,App4 with suitable headings of your projects & provide their github links in the corresponding links
+4.Make all the elements in the page responsive & align its content as shown in the output sample with the aforementioned using bootstrap
+
+-->
+
+
+<head>
+
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap-theme.css">
+    <link rel="stylesheet" href="bootstrap-theme.min.css">
+        <style>
+
+            /**Media Queries**/
+         body {
+             background: slategrey;
+         }
+    </style>
+    <title></title>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+    <!-- Defining the top row and the image
+    –xs(for phones -screens less than 768px wide)
+    –sm(for tablets -screens equal to or greater than 768px wide)
+    –md(for small laptops -screens equal to or greater than 992px wide)
+    –lg(for laptops and desktops -screens equal to or greater than 1200px wide)-->
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-xl-2">
+            <img align="left" src="https://i.pinimg.com/originals/2c/33/d6/2c33d607bb207b4ce85c3a8c017b664d.png"
+                 class="rounded-circle" width="100px" height="100px" alt="MyPic">
+        </div>
+    </div>
+
+
+        <div class="row">
+            <div class="col-md-2 offset-md-2"></div>
+            <div class="col-md-2 offset-md-2">
+                <h1>Maryam Albakhiet</h1></div>
+            <div class="col-md-2 offset-md-2"></div>
+            <div class="col-md-2 offset-md-2">
+                <h2>Computer Science Student</h2></div>
+        </div>
+        <div class="grid_container">
+            <!-- linked the main image-->
+            <img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Computer-Programming-Coding.jpg"
+                 class="img-thumbnail" width="1140px" height="350px" alt="main">
+        </div>
+    <div>
+        <h1>Featured Work </h1>
+    </div>
+
+
+
+    <div class ="container">
+        <div class="row">
+            <div class="col-sm-4 text-center">
+                <!-- Setting all the options. I used img-fluid to set it up-->
+                <img src="https://www.eschoolnews.com/files/2016/12/computer-science-education-800x533.jpg"
+                     class="img-thumbnail" width="555px" height="300px" alt="App1">
+                <h3>Data Structure Projects</h3>
+                <p><a href="https://github.com/MaryamAlbakhiet/CS-303" target="_blank">Link to project</a></p>
+            </div>
+            <div class="col-sm-4 text-center">
+                <img src="https://thetrendingbuzz.com/wp-content/uploads/2019/04/machine-learning-Startups.jpg"
+                     class="img-thumbnail" width="555px" height="300px" alt="App2">
+                <h3>C++ Projects </h3>
+                <p><a href="https://github.com/MaryamAlbakhiet/CS200" target="_blank">Link to project</a></p>
+            </div>
+            <div class="col-sm-4 text-center">
+                <img src="https://i.udemycdn.com/course/750x422/1292838_f55d_2.jpg"
+                     class="img-thumbnail" width="555px" height="300px" alt="App3">
+                <h3>WebMobile-2020Spring</h3>
+                <p><a href="https://github.com/MaryamAlbakhiet/WebMobile-2020Spring" target="_blank">Link to project</a></p>
+            </div>
+            <div class="col-sm-4 text-center">
+                <img src="https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/10124447/codes-coding-computer-577585.jpg"
+                     class="img-thumbnail" width="555px" height="300px" alt="App4">
+                <h3>Foundations of Software Engineering</h3>
+                <p><a href="https://github.com/MaryamAlbakhiet/CS449" target="_blank">Link to project</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
