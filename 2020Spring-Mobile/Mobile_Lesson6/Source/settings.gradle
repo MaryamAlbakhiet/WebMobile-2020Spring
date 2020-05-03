@@ -1,0 +1,2 @@
+rootProject.name='Mobile-ICP6'
+include ':app'
